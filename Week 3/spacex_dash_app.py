@@ -149,8 +149,6 @@ def render_scatter_chart(selected_site, payload_range):
         color_discrete_sequence=px.colors.qualitative.G10,  # Custom color palette
 
         size='Payload Mass (kg)',  # Map circle size to payload mass
-        s = (50,1000)
-
         title='Correlation Between Payload and Success for all Sites',
         labels={'class': 'Launch Outcome'},
         hover_name='class'
