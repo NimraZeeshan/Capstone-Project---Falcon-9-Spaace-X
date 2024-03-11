@@ -3,10 +3,10 @@
 
 The commercial space industry has become more accessible with companies like SpaceX offering cost-effective launches. SpaceX's Falcon 9 launch costs $62 million, significantly cheaper than competitors at $165 million. This cost-effectiveness is due to reusability, notably with the first stage of Falcon 9 rockets. However, there are instances of unsuccessful landings, prompting the need for accurate prediction of first stage reusability. As part of Space Y, a new rocket company competing with SpaceX, our task is to determine launch prices and predict first stage reusability using machine learning and public data.
 
-### Objective###
+### Objective ###
 SpaceX's cost-effective launches, notably with the Falcon 9 rocket, have revolutionized the commercial space industry. In response, Space Y seeks to compete by predicting first-stage reusability using machine learning and public data. Our objective was to identify factors influencing rocket landing success, assess feature contributions to success rates, and determine the most effective prediction algorithm.
 
-### Questions We Want To Answer###
+### Questions We Want To Answer ###
 * What factors determine the success of a rocket landing?
 * How do various features contribute to the success rate of rocket landings?
 * Which algorithm is most effective for predicting the success of rocket landings?
