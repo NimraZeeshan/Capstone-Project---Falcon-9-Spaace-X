@@ -48,4 +48,4 @@ These findings provide valuable insights for optimizing rocket launch operations
 
 ### Deliverables ###
 * Comprehensive businees report in form of a power point presentation. [Link here](https://github.com/NimraZeeshan/Capstone-Project-Falcon-9-Spaace-X/blob/main/Week%205/ds-capstone-final%20(11-03-24).pdf)
-* Jupyter notebooks containing codes and results [Link here](https://github.com/NimraZeeshan/Capstone-Project-Falcon-9-Spaace-X/tree/main)https://github.com/NimraZeeshan/Capstone-Project-Falcon-9-Spaace-X/tree/main) 
+* Jupyter notebooks containing codes and results [Link here](https://github.com/NimraZeeshan/Capstone-Project-Falcon-9-Spaace-X/tree/main)
